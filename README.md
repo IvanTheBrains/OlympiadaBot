@@ -10,10 +10,15 @@ We can see the results on [this](https://online.olimpiada.ru) website. So if we 
 ## Proper key
 The key must lool like this: **sec10/sch771258/11/172wl3** where
 > s - just a letter
+
 > ec - Economy
+
 > 10 - Economy code
+
 > sch771273 (sch - school, 77 - region, 1258 - school number)
+
 > 11 - your grade
+
 > 172wl3 - your unique code
 
 In 2019 and earlier* it looked almost the same, but started with the school information: **sch771258/10/g254q8hr9**
