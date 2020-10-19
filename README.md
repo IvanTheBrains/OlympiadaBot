@@ -23,5 +23,8 @@ The key must lool like this: **sec10/sch771258/11/172wl3** where
 
 In 2019 and earlier* it looked almost the same, but started with the school information: **sch771258/10/g254q8hr9**
 
+## Demo preview
+<img src="https://github.com/IvanTheBrains/OlympiadaBot/blob/main/demo_run.gif" width="350" height="400"/>
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or improve. 
