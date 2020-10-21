@@ -1,5 +1,6 @@
 # OlympiadaBot
 Telegram Bot which provides an information about the results of All-Russian Olympiad for schoolchildren ([ВОШ](https://vos.olimpiada.ru/2020/school)). This bot has low-functionality, nevertheless implements the main task
+
 This bot **requires** these packages:
 * Requests - for backend part of our bot
 * [Telebot](https://github.com/eternnoir/pyTelegramBotAPI) - for creating a bot
